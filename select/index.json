@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "needLe",
+  "base_artist": "望月穂波",
+  "createdAt": "2025-12-04T18:33:13.407783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Threaded Needle",
+      "artist": "Lotus Plaza",
+      "has_synced": false,
+      "path": "select/01_A_Threaded_Needle_Lotus_Plaza.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Needle In the Hay",
+      "artist": "Nadja",
+      "has_synced": false,
+      "path": "select/02_Needle_In_the_Hay_Nadja.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Needle Has Landed",
+      "artist": "Neko Case",
+      "has_synced": true,
+      "path": "select/03_The_Needle_Has_Landed_Neko_Case.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Needle And The Damage Done",
+      "artist": "Neil Young",
+      "has_synced": true,
+      "path": "select/04_The_Needle_And_The_Damage_Done_Neil_Young.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Needle and the Damage Done - Live",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/05_The_Needle_and_the_Damage_Done_-_Live_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Needle In the Camel's Eye",
+      "artist": "Brian Eno",
+      "has_synced": true,
+      "path": "select/06_Needle_In_the_Camel's_Eye_Brian_Eno.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Needle and the Spoon",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/07_The_Needle_and_the_Spoon_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Needle And The Spoon",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/08_The_Needle_And_The_Spoon_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Needle and the Spoon",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/09_The_Needle_and_the_Spoon_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Put the Needle On It",
+      "artist": "Dannii Minogue",
+      "has_synced": true,
+      "path": "select/10_Put_the_Needle_On_It_Dannii_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Put the Needle on It (Cicada vocal mix)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/11_Put_the_Needle_on_It_(Cicada_vocal_mix)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Put the Needle On It (Nevins club Creation edit)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/12_Put_the_Needle_On_It_(Nevins_club_Creation_edit)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Put the Needle on It - Tiga's Cookies Dub Edit",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/13_Put_the_Needle_on_It_-_Tiga's_Cookies_Dub_Edit_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Put the Needle on It (Tiga’s Cookies dub edit)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/14_Put_the_Needle_on_It_(Tiga’s_Cookies_dub_edit)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Needle & Thread",
+      "artist": "Benoît Pioulard",
+      "has_synced": false,
+      "path": "select/15_Needle_&_Thread_Benoît_Pioulard.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Needle of Death",
+      "artist": "Bert Jansch",
+      "has_synced": true,
+      "path": "select/16_Needle_of_Death_Bert_Jansch.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Needle and Thread",
+      "artist": "Psapp",
+      "has_synced": true,
+      "path": "select/17_Needle_and_Thread_Psapp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "needLe",
+      "artist": "望月穂波",
+      "has_synced": false,
+      "path": "select/pl_01_needLe_望月穂波.txt"
+    }
+  ]
+}
